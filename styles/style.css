@@ -1,0 +1,181 @@
+body {
+
+  overflow: auto;
+  background-color: #333333;
+  
+  
+}
+
+#search {
+
+
+  width:100%;
+  color: #fff;
+  
+  text-align: center;
+  
+  
+}
+
+#search h1 {
+
+  font-family: 'Merriweather', serif;
+  
+  
+  font-size: 3em;
+
+}
+
+#search p {
+
+  font-family: 'Lato', sans-serif;
+  font-style:italic;
+  font-size: 1.6em;
+  
+}
+
+#mySearch{
+
+  margin: auto;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.6em;
+  color:#000;
+  height: 40px;
+  
+  
+}
+
+#submitBtn {
+
+  background-color: #332200;  
+  border: 1px solid #332200;
+  color:#fff; 
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
+  height: 40px;
+  
+}
+#clear {
+
+  background-color: #332200;  
+  border: 1px solid #332200;
+  color:#fff; 
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
+  height: 40px;
+  
+}
+
+#rSearch {
+
+  font-family: 'Lato', sans-serif;
+  font-size: 1.2em;
+  color:#000;
+  
+  
+}
+
+
+.randomSearch {
+
+  margin: 3% auto;
+  
+}
+
+#results{
+
+  margin: 3% auto;
+  width:100%;
+  color: #fff;
+  
+}
+a {
+
+  color: #fff;
+  text-decoration:none;
+}
+a:hover {
+
+
+  color: #00ffff;
+  text-decoration:none;
+  
+}
+
+
+
+.row {
+
+  margin-bottom: 0px;
+  width: 100%;
+}
+
+.articleIcon {
+  width: 250px !important;
+}
+
+
+
+#resLists {
+
+
+  margin: 2% auto;
+  background-color: #1592bb;
+  padding: 1% 2%;
+  border:3px solid white;
+  
+}
+
+#resLists h3 {
+
+
+  font-family: 'Merriweather', serif;
+  
+}
+
+#resLists  p{
+
+
+  font-family: 'Lato', sans-serif;
+  font-style:italic;
+  font-size: 1.2em;
+  
+}
+
+
+#instructions{
+
+  width:100%;
+  margin:10px;
+  color:#fff;
+  
+  
+}
+
+#instructions p{
+
+  font-family: 'Merriweather', serif;
+  font-size: 1.2em;
+  
+  
+}
+
+.bottom-bar {
+  float: right;
+  padding: 10px;
+}
+
+.bottom-nvb {
+  background-color: #1592bb;
+  color: #ffffff;
+  width: auto;
+  border-radius: 50%;
+}
+#navcontainer {
+  background-color: #1592bb;
+  width: auto;
+  height: auto;
+}
+.blok{
+  display: inline-block;
+}
