@@ -10,7 +10,7 @@ search for a random article on Wikipedia.
 
 ## CodePen
 You can check this app on CodePen.
-## Installation and usage
+
 
 
 
@@ -19,5 +19,5 @@ You can check this app on CodePen.
 
 
 <p align="center">
-	<img src="images/Capture.PNG" alt="random quote">
+	<img src="images/Capture.PNG" alt="">
 </p>
